@@ -1,6 +1,7 @@
 # Mobile Application System Design
 
-Class practice projects for Mobile Application System Design.
+This repository contains my in-class Flutter practice projects for Mobile Application System Design.
+Each folder is organized by chapter and contains the corresponding practice app.
 
 | Chapter | Folder | Practice |
 | --- | --- | --- |
