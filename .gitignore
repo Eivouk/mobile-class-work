@@ -1,0 +1,26 @@
+# Local folders kept only because Windows had running processes holding files open.
+/sqlite_app/
+/firebase_notes_app/
+/chapter_9_map_app/
+
+# Not part of this class-work submission.
+/Group_Project/
+/.agents/
+/.codex/
+
+# Flutter and editor generated files, applied from the repository root.
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/build/
+**/.idea/
+**/*.iml
+**/.gradle/
+**/local.properties
+**/Generated.xcconfig
+**/flutter_export_environment.sh
+**/GeneratedPluginRegistrant.*
+**/ephemeral/
+**/*.log
+**/google-services.json
+**/GoogleService-Info.plist
